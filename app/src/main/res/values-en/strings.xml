@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiVentana</string>
+    <string name="boton_siguiente">Next</string>
+    <string name="boton_enviar">Send</string>
+    <string name="boton_anterior">Back</string>
+
+    <string name="msg_nombre">Say your name</string>
+    <string name="msg_edad">Say your years old</string>
+    <string name="msg_salida">The message is ....</string>
+</resources>

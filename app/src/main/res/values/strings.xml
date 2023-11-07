@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiVentana</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="boton_anterior">Anterior</string>
+
+    <string name="msg_nombre">Dime tu nombre</string>
+    <string name="msg_edad">Dime tu edad</string>
+    <string name="msg_salida">El mensaje es ....</string>
+</resources>
